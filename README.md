@@ -29,7 +29,7 @@ The final dataset enables exploration of relationships between temperature patte
 
 ## System Architecture
 
-![Pipeline Architecture](images/energy_pipeline_architecture.png)
+![Energy Data Pipeline](docs/energy_pipeline_architecture.png)
 
 ```mermaid
 flowchart TD
