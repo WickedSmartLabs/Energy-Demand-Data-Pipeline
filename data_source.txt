@@ -1,0 +1,24 @@
+Energy Consumption Data (Raw)
+Source: U.S. Energy Information Administration (EIA)
+Link: https://www.eia.gov/opendata/
+
+The file eia_energy_consumption_raw.csv was manually downloaded from the
+U.S. Energy Information Administration Open Data portal.
+
+Due to file size limitations, the raw energy consumption dataset is not
+included in this repository. Reviewers can re-download the dataset
+directly from the source link above.
+
+
+Weather Data (Raw)
+Source: NOAA National Centers for Environmental Information (NCEI)
+API Endpoint: https://www.ncei.noaa.gov/access/services/data/v1
+Dataset: daily-summaries
+Station ID: USW00093814 (Cincinnati CVG Airport)
+Date Range: 2022-01-01 to 2023-12-31
+
+The weather dataset was collected programmatically using the NOAA API.
+The raw output was saved locally as weather_cincinnati_daily_raw.csv
+before cleaning and aggregation.
+
+Dropbox: https://www.dropbox.com/scl/fo/glquuvqbfh6lr8nyifamm/AMGNUCJ-yKSH5hixslZ0NrM?rlkey=5z2q2pmyo1j4nqv012aedsp22&st=cotts9bw&dl=0
